@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @yeshapatel356
-- 👀 I’m interested in Programming and analysis
-- 🌱 I’m currently working at Tech Mahindra
+- 🎓 Pursuing a Master's in Applied Computing at the University of Windsor.
+- 🌱 2+ years of experience as a Software Engineer at Tech Mahindra.
+- ⚙️ I have a strong interest in programming languages and data analysis.
 - 📫 How to reach me patelyesha318@gmail.com
 
 <!---
