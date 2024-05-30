@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yeshapatel356
-- 🎓 Pursuing a Master's in Applied Computing at the University of Windsor.
+- 🎓 Pursuing a Master of Applied Computing at the University of Windsor.
 - 🌱 2+ years of experience as a Software Engineer at Tech Mahindra.
 - ⚙️ I have a strong interest in programming languages and data analysis.
 - 📫 How to reach me patelyesha318@gmail.com
